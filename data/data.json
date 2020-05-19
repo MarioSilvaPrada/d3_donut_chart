@@ -1,0 +1,12 @@
+[
+  { "team": "Liverpool FC", "sponsors": 20 },
+  { "team": "Bayern München", "sponsors": 12 },
+  { "team": "Manchester City", "sponsors": 32 },
+  { "team": "Barcelona", "sponsors": 8 },
+  { "team": "Paris Saint-Germain", "sponsors": 11 },
+  { "team": "Juventus", "sponsors": 18 },
+  { "team": "Atalanta", "sponsors": 15 },
+  { "team": "Real Madrid", "sponsors": 21 },
+  { "team": "Borussia Dortmund", "sponsors": 36 },
+  { "team": "Atletico Madrid", "sponsors": 7 }
+]
